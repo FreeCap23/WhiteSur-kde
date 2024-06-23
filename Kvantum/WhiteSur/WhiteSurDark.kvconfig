@@ -79,7 +79,7 @@ window.color=#242424
 inactive.window.color=#242424
 base.color=#242424
 inactive.base.color=#242424
-alt.base.color=#2d2d2d
+alt.base.color=#2d2d2d4f
 inactive.alt.base.color=#282828
 button.color=#656565
 light.color=#5a5a5a
@@ -328,10 +328,10 @@ inherits=PanelButtonCommand
 interior=true
 interior.element=header
 frame.element=header
-frame.top=0
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 
 [SizeGrip]
 indicator.element=resize-grip
